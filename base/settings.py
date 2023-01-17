@@ -15,9 +15,9 @@ SECRET_KEY = 'django-insecure-kuj0x4%7gn5u62)k%la&#de!fk6)k&k$u=l_^aap4w(f7467xx
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['onlineshoppersbysamuel.up.railway.app', '127.0.0.1','onlineshoppersnew.up.railway.app','onlineshoppers.up.railway.app']
+ALLOWED_HOSTS = ['onlineshoppersbysamuel.up.railway.app', '127.0.0.1','onlineshoppersnew.up.railway.app','onlineshoppers.up.railway.app', 'onlineshoppersuganda.co.ug']
 
-CSRF_TRUSTED_ORIGINS = ['https://onlineshoppers.up.railway.app','https://onlineshoppersbysamuel.up.railway.app','https://onlineshoppersnew.up.railway.app', 'https://127.0.0.1']
+CSRF_TRUSTED_ORIGINS = ['https://onlineshoppers.up.railway.app','https://onlineshoppersbysamuel.up.railway.app','https://onlineshoppersnew.up.railway.app', 'https://127.0.0.1', 'https://onlineshoppersuganda.co.ug']
 
 
 # Application definition
